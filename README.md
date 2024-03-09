@@ -6,6 +6,7 @@
 ## Usage
 
 Run **without** docker
+
 ``` go run ./cmd .```
 
 Go to ```http://localhost:8080```
