@@ -2,6 +2,7 @@
 
 ## Description
    
+API for registration and authorization
 
 ## Usage
 
